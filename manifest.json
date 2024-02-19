@@ -1,0 +1,16 @@
+{
+    "name": "ToDoList",
+    "version": "1.0.0",
+    "description": "ToDo list ",
+    "manifest_version": 3,
+    "author": "Suresh",
+    "icons": {
+        "16": "images/icon.png",
+        "48": "images/icon.png",
+        "128": "images/icon.png"
+      },
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "ToDoList"
+    }
+}
